@@ -1,13 +1,13 @@
 This is a simple counter app created using react by Sudip Adhikari.
-Number and name of feature: ________________________________
+Number and name of feature: Counter App
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 3 hours
 
-Start time: _____
+Start time: 1800
 
-Finish time: _____
+Finish time: 2000
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2 hours
 
 
 
